@@ -28,6 +28,10 @@ li {
   padding: 100px 80px;
 }
 
+. contents-item{
+  float:left;
+}
+
 .copy-container h1 {
   font-size: 140px;
 }
