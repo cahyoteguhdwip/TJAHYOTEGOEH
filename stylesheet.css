@@ -1,3 +1,6 @@
+
+
+
 body {
   font-family: "Avenir Next";
 }
@@ -18,7 +21,7 @@ header {
 }
 
 .sip {
-  width: 1370px;
+  width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -113,6 +116,7 @@ header {
   box-shadow: none;
 }
 
+
 .header-logo {
   float: left;
   font-size: 36px;
@@ -126,13 +130,16 @@ header {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://thumb.viva.id/intipseleb/1265x711/2023/09/15/650458f2cdd2a-arti-kata-gwenchana.jpeg);
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
+}
 
 .main {
   padding: 100px 80px;
 }
+
+.contact-form{}
 
 .copy-container h1 {
   font-size: 140px;
